@@ -1,4 +1,8 @@
 -  Hi, I’m @HybridCoco
 -  I’m interested in learning new coding language.
 -  I am a young learner and am not an expert in learning or coding i am a starter.
-- 
+- This is the first thing i created properly after learning these things.
+- Yes i did the HTML stuff myself (Little bit of help) but the CSS and the JS was completely learned from online.
+- https://youtu.be/sBJmRD7kNTk?si=i4Q4twWACdimG9eJ
+- @AsmrProg is an amazing youtube channel from whom you can see him build different kind of projects and you can learn from it.
+- Though he dosent directly explain anything but you can learn by seeing things.
